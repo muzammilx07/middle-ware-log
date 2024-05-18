@@ -1,0 +1,14 @@
+{
+  "name": "express-logging",
+  "version": "1.0.0",
+  "description": "Node.js application with request logging middleware using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": "Masoom",
+  "license": "ISC"
+}
